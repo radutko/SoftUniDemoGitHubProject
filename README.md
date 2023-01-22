@@ -1,2 +1,2 @@
 # SoftUniDemoGitHubProject
-Demo progect for SoftUni Fundamentals
+Demo progect for SoftUni Fundamentals.I edited this on GitHub directly!👍
